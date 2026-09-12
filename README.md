@@ -4,16 +4,12 @@ NesGM is a Nintendo Entertainment System emulator made with GameMaker.
 This is Technical experiment
 
 ## Features
-
-- GPU-based NES video renderer with crisp pixel output
 - iNES ROM loading (`.nes`)
 - Supported mappers: NROM (0), MMC1 (1), UxROM (2), CNROM (3), MMC3 (4), and AxROM (7)
 - NTSC and PAL timing modes
 - Keyboard and gamepad input
 - Sound, mute, fullscreen, frame-rate limiter, and region controls
 - Ten save-state slots
-- Battery-backed save RAM persistence for supported cartridges
-
 ## Controls
 
 | Action | Keyboard |
