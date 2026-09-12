@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_reset",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_reset",
+  "parent":{
+    "name":"cpu",
+    "path":"folders/Scripts/cpu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

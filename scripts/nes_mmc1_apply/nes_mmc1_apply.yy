@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_mmc1_apply",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_mmc1_apply",
+  "parent":{
+    "name":"cartridge",
+    "path":"folders/Scripts/cartridge.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

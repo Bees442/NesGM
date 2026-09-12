@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_cpu_branch",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_cpu_branch",
+  "parent":{
+    "name":"cpu",
+    "path":"folders/Scripts/cpu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

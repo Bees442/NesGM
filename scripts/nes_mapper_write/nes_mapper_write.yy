@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_mapper_write",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_mapper_write",
+  "parent":{
+    "name":"cartridge",
+    "path":"folders/Scripts/cartridge.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

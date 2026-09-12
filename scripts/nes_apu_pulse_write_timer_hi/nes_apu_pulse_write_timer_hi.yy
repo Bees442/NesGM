@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_apu_pulse_write_timer_hi",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_apu_pulse_write_timer_hi",
+  "parent":{
+    "name":"apu",
+    "path":"folders/Scripts/apu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

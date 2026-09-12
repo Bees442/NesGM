@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_state_read_mapper",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_state_read_mapper",
+  "parent":{
+    "name":"savestate",
+    "path":"folders/Scripts/savestate.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

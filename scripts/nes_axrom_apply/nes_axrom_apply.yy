@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_axrom_apply",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_axrom_apply",
+  "parent":{
+    "name":"cartridge",
+    "path":"folders/Scripts/cartridge.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

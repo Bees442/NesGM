@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_cpu_rmw_asl",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_cpu_rmw_asl",
+  "parent":{
+    "name":"cpu",
+    "path":"folders/Scripts/cpu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

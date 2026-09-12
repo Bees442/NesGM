@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_cart_cpu_write",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_cart_cpu_write",
+  "parent":{
+    "name":"cartridge",
+    "path":"folders/Scripts/cartridge.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

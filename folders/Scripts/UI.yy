@@ -1,0 +1,10 @@
+﻿{
+  "$GMFolder":"",
+  "%Name":"UI",
+  "folderPath":"folders/Scripts/UI.yy",
+  "isDefaultView":false,
+  "localisedFolderName":"",
+  "name":"UI",
+  "resourceType":"GMFolder",
+  "resourceVersion":"2.0",
+}

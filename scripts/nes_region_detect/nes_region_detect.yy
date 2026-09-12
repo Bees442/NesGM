@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_region_detect",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_region_detect",
+  "parent":{
+    "name":"cpu",
+    "path":"folders/Scripts/cpu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

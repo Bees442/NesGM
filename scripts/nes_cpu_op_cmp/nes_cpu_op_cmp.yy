@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_cpu_op_cmp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_cpu_op_cmp",
+  "parent":{
+    "name":"cpu",
+    "path":"folders/Scripts/cpu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_chr_set_4k",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_chr_set_4k",
+  "parent":{
+    "name":"cartridge",
+    "path":"folders/Scripts/cartridge.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_gpu_upload_chr",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_gpu_upload_chr",
+  "parent":{
+    "name":"gpu",
+    "path":"folders/Scripts/gpu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

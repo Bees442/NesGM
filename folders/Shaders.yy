@@ -1,0 +1,10 @@
+{
+  "$GMFolder":"",
+  "%Name":"Shaders",
+  "folderPath":"folders/Shaders.yy",
+  "isDefaultView":false,
+  "localisedFolderName":"",
+  "name":"Shaders",
+  "resourceType":"GMFolder",
+  "resourceVersion":"2.0",
+}

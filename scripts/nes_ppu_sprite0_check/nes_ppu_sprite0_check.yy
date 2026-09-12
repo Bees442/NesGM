@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_ppu_sprite0_check",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_ppu_sprite0_check",
+  "parent":{
+    "name":"ppu",
+    "path":"folders/Scripts/ppu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

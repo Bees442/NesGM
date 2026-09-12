@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_gpu_ensure_surfaces",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_gpu_ensure_surfaces",
+  "parent":{
+    "name":"gpu",
+    "path":"folders/Scripts/gpu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

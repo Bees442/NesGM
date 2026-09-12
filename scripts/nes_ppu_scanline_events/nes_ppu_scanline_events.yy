@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_ppu_scanline_events",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_ppu_scanline_events",
+  "parent":{
+    "name":"ppu",
+    "path":"folders/Scripts/ppu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

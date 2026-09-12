@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_palette_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_palette_init",
+  "parent":{
+    "name":"ppu",
+    "path":"folders/Scripts/ppu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

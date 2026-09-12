@@ -1,0 +1,10 @@
+{
+  "$GMFolder":"",
+  "%Name":"Objects",
+  "folderPath":"folders/Objects.yy",
+  "isDefaultView":false,
+  "localisedFolderName":"",
+  "name":"Objects",
+  "resourceType":"GMFolder",
+  "resourceVersion":"2.0",
+}

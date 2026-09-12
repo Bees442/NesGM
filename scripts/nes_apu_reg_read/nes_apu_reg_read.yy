@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_apu_reg_read",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_apu_reg_read",
+  "parent":{
+    "name":"apu",
+    "path":"folders/Scripts/apu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

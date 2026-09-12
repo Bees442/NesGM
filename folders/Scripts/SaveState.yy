@@ -1,0 +1,10 @@
+{
+  "$GMFolder":"",
+  "%Name":"SaveState",
+  "folderPath":"folders/Scripts/SaveState.yy",
+  "isDefaultView":false,
+  "localisedFolderName":"",
+  "name":"SaveState",
+  "resourceType":"GMFolder",
+  "resourceVersion":"2.0",
+}

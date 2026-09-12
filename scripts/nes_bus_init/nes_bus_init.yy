@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_bus_init",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_bus_init",
+  "parent":{
+    "name":"bus",
+    "path":"folders/Scripts/bus.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

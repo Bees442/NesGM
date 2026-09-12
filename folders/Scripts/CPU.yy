@@ -1,0 +1,10 @@
+{
+  "$GMFolder":"",
+  "%Name":"CPU",
+  "folderPath":"folders/Scripts/CPU.yy",
+  "isDefaultView":false,
+  "localisedFolderName":"",
+  "name":"CPU",
+  "resourceType":"GMFolder",
+  "resourceVersion":"2.0",
+}

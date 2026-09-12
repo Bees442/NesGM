@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_gpu_record_scanline",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_gpu_record_scanline",
+  "parent":{
+    "name":"gpu",
+    "path":"folders/Scripts/gpu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

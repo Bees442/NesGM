@@ -1,0 +1,10 @@
+{
+  "$GMFolder":"",
+  "%Name":"PPU",
+  "folderPath":"folders/Scripts/PPU.yy",
+  "isDefaultView":false,
+  "localisedFolderName":"",
+  "name":"PPU",
+  "resourceType":"GMFolder",
+  "resourceVersion":"2.0",
+}

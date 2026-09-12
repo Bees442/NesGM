@@ -1,0 +1,10 @@
+{
+  "$GMFolder":"",
+  "%Name":"Bus",
+  "folderPath":"folders/Scripts/Bus.yy",
+  "isDefaultView":false,
+  "localisedFolderName":"",
+  "name":"Bus",
+  "resourceType":"GMFolder",
+  "resourceVersion":"2.0",
+}

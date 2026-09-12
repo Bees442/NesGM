@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_gpu_set_chr_uniforms",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_gpu_set_chr_uniforms",
+  "parent":{
+    "name":"gpu",
+    "path":"folders/Scripts/gpu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

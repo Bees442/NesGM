@@ -1,0 +1,10 @@
+{
+  "$GMFolder":"",
+  "%Name":"Cartridge",
+  "folderPath":"folders/Scripts/Cartridge.yy",
+  "isDefaultView":false,
+  "localisedFolderName":"",
+  "name":"Cartridge",
+  "resourceType":"GMFolder",
+  "resourceVersion":"2.0",
+}

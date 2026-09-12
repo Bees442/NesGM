@@ -1,0 +1,10 @@
+{
+  "$GMFolder":"",
+  "%Name":"GPU",
+  "folderPath":"folders/Scripts/GPU.yy",
+  "isDefaultView":false,
+  "localisedFolderName":"",
+  "name":"GPU",
+  "resourceType":"GMFolder",
+  "resourceVersion":"2.0",
+}

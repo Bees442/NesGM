@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_ppu_oam_dma_byte",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_ppu_oam_dma_byte",
+  "parent":{
+    "name":"ppu",
+    "path":"folders/Scripts/ppu.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

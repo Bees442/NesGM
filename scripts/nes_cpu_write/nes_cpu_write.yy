@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"nes_cpu_write",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"nes_cpu_write",
+  "parent":{
+    "name":"bus",
+    "path":"folders/Scripts/bus.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
