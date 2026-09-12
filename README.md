@@ -9,7 +9,7 @@ This is Technical experiment
 - NTSC and PAL timing modes
 - Keyboard and gamepad input
 - Sound, mute, fullscreen, frame-rate limiter, and region controls
-- Ten save-state slots
+- 10 save-state slots
 ## Controls
 
 | Action | Keyboard |
